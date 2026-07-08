@@ -2,9 +2,9 @@
 
 ## ปภาวี ชาวนา 
 
-🎓 คณะการบัญชีและการจัดการ  
-💻 สาขาคอมพิวเตอร์ธุรกิจ  
-🏫 มหาวิทยาลัยมหาสารคาม
+🎓 Faculty of Accounting and Management
+💻 Business Computer Program
+🏫 Mahasarakham University
 
 ---
 
