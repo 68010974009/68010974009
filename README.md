@@ -3,7 +3,9 @@
 ## ปภาวี ชาวนา 
 
 🎓 Faculty of Accounting and Management
+
 💻 Business Computer Program
+
 🏫 Mahasarakham University
 
 ---
