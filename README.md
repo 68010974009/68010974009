@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 สวัสดีค่ะ
 
-<!--
-**68010974009/68010974009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ปภาวี ชาวนา 
 
-Here are some ideas to get you started:
+🎓 คณะการบัญชีและการจัดการ  
+💻 สาขาคอมพิวเตอร์ธุรกิจ  
+🏫 มหาวิทยาลัยมหาสารคาม
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills
+
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- PHP
+- MySQL
+- Git & GitHub
+
+---
+
+## 📂 Projects
+
+- Portfolio Website
+- E-Commerce Website
+- Load Balancer Project
+- Cloud Computing Project
+
+---
+
+## 📬 Contact
+
+- 📧 Email: 68010974009@msu.ac.th
+- 💻 GitHub: https://github.com/68010974009
+
+---
+
+⭐ ขอบคุณที่เข้ามาเยี่ยมชม GitHub Profile ของดิฉันนะคะ
